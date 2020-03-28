@@ -52,3 +52,10 @@ module.exports = {
     extend(config, ctx) {}
   }
 };
+
+export default {
+  head: {
+    title: "My awesome project", // Other meta information
+    script: [{ hid: "stripe", src: "https://js.stripe.com/v3/", defer: true }]
+  }
+};
