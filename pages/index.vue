@@ -14,7 +14,7 @@
       </p>
       <p class="content__article-links">
         <a
-          href="https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume.pdf"
+          href="https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume2020.pdf"
           target="_blank"
         >
           <i class="far fa-file-alt content__article-link" />
@@ -37,16 +37,17 @@
     <!-- About Me -->
     <article class="content__article content__article--margin-16">
       <p class="content__article-details">
-        Lorem ipsum dolor sit amet, facilisi nec,
-        <a href="#" target="_blank">nonummy</a> hendrerit elit a metus
-        <a href="#" target="_blank">ultricies</a>, ante tortor volutpat
-        suspendisse eos hac in, metus quis in felis egestas, sapien id id eu
-        duis volutpat. <br /><br />
-        A turpis magna ac, eu etiam
-        <a href="#" target="_blank">tellus rutrum</a> enim arcu eget. Non dolor
-        eu torquent. <a href="#" target="_blank">Aenean nostra</a> torquent
-        fringilla, ac wisi penatibus id sit enim scelerisque, metus ac erat, vel
-        id.
+        Recent Grad. Lover of all things science & tech. Passionate about
+        responsive web design and minimalist single-page applications. As a
+        former researcher, what I enjoy most about software development is how
+        it rewards problem-solving and the application of scientific thinking,
+        irrespective of material condtions.<br /><br />
+
+        I'm driven to learn new technologies, broaden my knowledge of the tech
+        industry, and make meaningful contributions to projects. Feel free to
+        <a href="mailto:austinbdenny@gmail.com" target="_blank">reach out</a>!
+        I'm open to exploring new opportunities that will challenge my current
+        skill set, and offer long term growth potential.
       </p>
     </article>
 
@@ -109,7 +110,8 @@
         viewing both historical and current bestseller data from The New York
         Times.<br />
         <span class="content__article-metadata">
-          <b><i class="fa fa-code" /> Technology:</b> HTML, CSS, Javascript
+          <b><i class="fa fa-code" /> Technology:</b> HTML, CSS, Javascript ES6,
+          AJAX, and JSON. Deployed on AWS S3.
         </span>
       </p>
       <!-- Preview -->

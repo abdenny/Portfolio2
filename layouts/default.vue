@@ -6,8 +6,7 @@
 
     <!-- Footer -->
     <footer class="footer">
-      | Crafted with minimialism &
-      functionailty first|
+      Responsive | Minimal | Functional
     </footer>
   </main>
 </template>
