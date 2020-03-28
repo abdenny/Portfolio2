@@ -23,7 +23,7 @@ module.exports = {
       {
         hid: "description",
         name: "description",
-        content: "Full Name | Web Developer"
+        content: "Austin Denny | Web Developer"
       },
       {
         hid: "keywords",

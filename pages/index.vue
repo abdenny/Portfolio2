@@ -37,11 +37,11 @@
     <!-- About Me -->
     <article class="content__article content__article--margin-16">
       <p class="content__article-details">
-        Recent Grad. Lover of all things science & tech. Passionate about
-        responsive web design and minimalist single-page applications. As a
-        former researcher, what I enjoy most about software development is how
-        it rewards problem-solving and the application of scientific thinking,
-        irrespective of material conditions.<br /><br />
+        Recent Grad. Lover of all things science & tech. Highly motivated to
+        build beutiful and responsive web applications. As a former researcher,
+        what I enjoy most about software development is how it rewards
+        problem-solving and the application of scientific thinking, irrespective
+        of material conditions.<br /><br />
 
         I'm driven to learn new technologies, broaden my knowledge of the tech
         industry, and make meaningful contributions to projects. Feel free to
@@ -141,7 +141,7 @@
     <article class="content__article content__article--margin-8">
       <!-- Title -->
       <p class="content__article-title content__article-title">
-        Title
+        Blackjack
       </p>
       <!-- Details -->
       <p class="content__article-details content__article--margin-8">
