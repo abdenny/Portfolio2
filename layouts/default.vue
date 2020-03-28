@@ -6,7 +6,7 @@
 
     <!-- Footer -->
     <footer class="footer">
-      Responsive | Minimal | Functional
+      <a href="#">-Austin Denny-</a>
     </footer>
   </main>
 </template>
