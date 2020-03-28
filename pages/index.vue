@@ -77,7 +77,7 @@
       </p>
       <!-- Preview -->
       <a
-        href="http://ec2-18-222-118-237.us-east-2.compute.amazonaws.com"
+        href="http://ec2-3-21-98-7.us-east-2.compute.amazonaws.com/"
         target="_blank"
       >
         <img src="/img/tribuo.png" class="content__article-preview" />
@@ -86,7 +86,7 @@
       <p class="content__article-details">
         -- <br />
         <a
-          href="http://ec2-18-222-118-237.us-east-2.compute.amazonaws.com"
+          href="http://ec2-3-21-98-7.us-east-2.compute.amazonaws.com/"
           target="_blank"
           >Demo</a
         >
