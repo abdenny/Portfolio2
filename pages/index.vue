@@ -41,7 +41,7 @@
         responsive web design and minimalist single-page applications. As a
         former researcher, what I enjoy most about software development is how
         it rewards problem-solving and the application of scientific thinking,
-        irrespective of material condtions.<br /><br />
+        irrespective of material conditions.<br /><br />
 
         I'm driven to learn new technologies, broaden my knowledge of the tech
         industry, and make meaningful contributions to projects. Feel free to
