@@ -37,7 +37,7 @@
     <!-- About Me -->
     <article class="content__article content__article--margin-16">
       <p class="content__article-details">
-        Recent Grad. Lover of all things science & tech. Highly motivated to
+        Lover of all things science & tech. Highly motivated to
         build beautiful and responsive web applications. As a former researcher,
         what I enjoy most about software development is how it rewards
         problem-solving and the application of scientific thinking, irrespective
